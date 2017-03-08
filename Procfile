@@ -1,1 +1,1 @@
-web:    java -cp target/PspPrograma3-1.0-SNAPSHOT.jar edu/uniandes/ecos/ASE/app
+web:    java $JAVA_OPTS -jar target/PspPrograma3-1.0-SNAPSHOT.jar --port $PORT target/*.war
