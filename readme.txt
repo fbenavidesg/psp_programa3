@@ -1,7 +1,7 @@
 CSOF5101 CONCEPTOS AVANZADOS EN INGENIERÍA DE SOFTWARE
 Tarea 3
 Fredy Benavides Gordillo
-07/02/2017
+07/03/2017
 Descargar de repositorio git:
 	> git clone https://github.com/fbenavidesg/psp_programa3.git
 Ejecutar: 
