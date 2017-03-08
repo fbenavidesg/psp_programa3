@@ -1,1 +1,1 @@
-web:    java -cp target/classes:target/dependency/* edu/uniandes/ecos/ASE/app
+web:    java -cp target/PspPrograma3-1.0-SNAPSHOT.jar edu/uniandes/ecos/ASE/app
