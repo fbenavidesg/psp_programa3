@@ -7,7 +7,7 @@ Descargar de repositorio git:
 Ejecutar: 
     > cd psp_programa3
 	> mvn package
-	> java -cp target/PspPrograma2-1.0-SNAPSHOT.jar edu.uniandes.ecos.ASE.app.App
+	> java -cp target/PspPrograma3-1.0-SNAPSHOT.jar edu.uniandes.ecos.ASE.app.App
 
 
 
